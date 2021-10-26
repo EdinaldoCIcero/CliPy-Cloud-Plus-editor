@@ -1,0 +1,8 @@
+{
+	"text_aviso_protugues"      : "ATENÇÃO AO ADICIONAR O VIDEO DE INTRO ELE TAMBÉM SERÁ ADICIONADO AO FIM E SUA LARGURA E ALTURA SERÁ O PADRÃO PARA O VIDEO FINAL",
+
+	"text_aviso_ingles"         : "PLEASE NOTE WHEN ADDING THE INTRO VIDEO IT WILL ALSO BE ADDED TO THE END AND ITS WIDTH AND HEIGHT WILL BE THE STANDARD FOR THE FINAL VIDEO.",
+	
+	"text_sound_aviso" 			: "Aviso, ao adicionar o arquivo de audio a sua duração será igual ao do video adicionado ",
+	"text_aviso_slide_speed"    : "Arraste o slide para definir o valor da velocidade do seu video de saida."
+}	
