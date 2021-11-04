@@ -7,4 +7,4 @@
 
 Projeto feito em python + moviepy, o CliPy Cloud-Plus é um software simples de edição de video um pouca mais rapido com funções limitadas mais as vezes muito usadas em video pequenos como timelapses e dev-logs.
 
-
+Caso queira usar direto do main,b asta instalar as bibliotecas : pip install pysimplegui   e moviepy  e  json e ffmpeg
